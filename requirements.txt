@@ -1,0 +1,10 @@
+# requirements.txt is for production purpose
+
+bentoml # Packages machine learning models for deployment.
+torchvision # Provides tools for computer vision tasks using PyTorch.
+joblib # Saves and loads Python objects efficiently.
+tqdm # Creates progress bars for iterables.
+pip-chill # Installs Python packages from GitHub repositories.
+wincertstore # Interacts with the certificate store on Windows systems.
+
+#-e .
