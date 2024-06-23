@@ -1,9 +1,10 @@
-bentoml # Packages machine learning models for deployment.
-torchvision # Provides tools for computer vision tasks using PyTorch.
-joblib # Saves and loads Python objects efficiently.
-tqdm # Creates progress bars for iterables.
-pip-chill # Installs Python packages from GitHub repositories.
-wincertstore # Interacts with the certificate store on Windows systems.
+bentoml==1.0.10 # Packages machine learning models for deployment.
+torchvision==0.14.1 # Provides tools for computer vision tasks using PyTorch.
+joblib==1.2.0 # Saves and loads Python objects efficiently.
+tqdm==4.64.1 # Creates progress bars for iterables.
+pip-chill==1.0.1 # Installs Python packages from GitHub repositories.
+wincertstore==0.2 # Interacts with the certificate store on Windows systems.
+
 dvc # Version controls data for machine learning projects.
 mlflow # Tracks experiments and manages the machine learning lifecycle.
 ipykernel # Provides kernels for interactive computing within the Jupyter ecosystem (e.g., Jupyter Notebook, JupyterLab).
